@@ -9,6 +9,13 @@ This repository contains my Java practice and notes as I learn Java step by step
 ## Topics covered so far
 - Variables and data types
 - User input using Scanner
+- Java Input Handling (7/02/26)
+  I learned about an issue when using 'Scanner' to accept 'int' or 'double' input before a 'String'.
+     **Problem**
+  When switching from numeric input to 'nextLine', the input buffer keeps the newline character, causing the string input to be skipped.
+     **Solution**
+  Consume the leftover newline using an extra 'scanner.nextLine()'.
+  This helped me understand how Java handles input internally.
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
