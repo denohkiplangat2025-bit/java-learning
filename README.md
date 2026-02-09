@@ -16,6 +16,16 @@ This repository contains my Java practice and notes as I learn Java step by step
      **Solution**
   Consume the leftover newline using an extra 'scanner.nextLine()'.
   This helped me understand how Java handles input internally.
+  -Rectangle Area Calculator(9/02/26)
+  I created a simple Java program that calculates the area of a rectangle using user input.
+  -**Concepts practiced**
+  Using 'Scanner' for user input
+  Working with 'double' values
+  Basic arithmetic operations
+  Output formating
+  -**Formula**
+  Area= lenth*width
+  
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
