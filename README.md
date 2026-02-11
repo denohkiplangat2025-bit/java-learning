@@ -25,6 +25,12 @@ This repository contains my Java practice and notes as I learn Java step by step
   Output formating
   -**Formula**
   Area= lenth*width
+  -Mad Libs Game(11/02/26)
+  A simple interactive console game. The program asks the user for different words and generates a funny story using the provided input.
+  **-Concepts practiced**
+  -Scanner
+  -String concatenation
+  -Console output formatting
   
 ## Learning approach
 - Practice-based learning
