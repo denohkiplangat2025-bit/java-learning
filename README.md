@@ -31,6 +31,17 @@ This repository contains my Java practice and notes as I learn Java step by step
   -Scanner
   -String concatenation
   -Console output formatting
+  Arithmetic Operations Practice(12/02/2026)
+  A Java program demonstrating basic arithmetic operators;
+  - Addition(+)
+  - Subtraction(-)
+  - Multiplication(*)
+  - Division(%)
+  - Modulus(%)
+    **Concepts practiced**
+    - Integer and double calculations
+    - Order of operations
+    - Console output
   
 ## Learning approach
 - Practice-based learning
