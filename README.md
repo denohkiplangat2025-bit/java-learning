@@ -42,7 +42,17 @@ This repository contains my Java practice and notes as I learn Java step by step
     - Integer and double calculations
     - Order of operations
     - Console output
-  
+  ## Augmented Assignment Operators(12/2/2026)
+  A Java program demonstrating the use of:
+  - += (addition assignment)
+  - -= ( subtraction assignment)
+  - *= ( multiplication assignment)
+  - /= ( division assignment)
+  - %= ( modulus assignment)
+  ## Concepts practiced:
+  - Updating variable values
+  - Short-hand arithmetic operations
+  - Understanding operator behavior 
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
