@@ -52,7 +52,13 @@ This repository contains my Java practice and notes as I learn Java step by step
   ## Concepts practiced:
   - Updating variable values
   - Short-hand arithmetic operations
-  - Understanding operator behavior 
+  - Understanding operator behavior
+## Increment and Decrement Operators(12/2/2026)
+A Java program demonstrating :
+- Post-increment (x++)
+- Pre-increment (++x)
+- Post-decrement (x--)
+- Pre-decrement (--x)
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
