@@ -59,6 +59,10 @@ A Java program demonstrating :
 - Pre-increment (++x)
 - Post-decrement (x--)
 - Pre-decrement (--x)
+### Concepts practiced:
+- Understanding operator behavior
+- Difference between pre and post operations
+- Variable value updates
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
