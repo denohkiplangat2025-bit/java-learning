@@ -63,6 +63,21 @@ A Java program demonstrating :
 - Understanding operator behavior
 - Difference between pre and post operations
 - Variable value updates
+## Shopping Cart Program
+A console-based Java program that simulates a simple shopping cart.
+### Features
+- Accepts product name
+- Accepts quantity
+- Accepts price per item
+- Calculates total cost
+- Displays formatted output
+### Concepts Practiced:
+- A Scanner for user input
+- Arithmetic calculations
+- Working with double values
+- Basic program structure
+- Console output formatting
+
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
