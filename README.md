@@ -77,7 +77,14 @@ A console-based Java program that simulates a simple shopping cart.
 - Working with double values
 - Basic program structure
 - Console output formatting
-
+## If Statements Practice(16/02/2026)
+A Java program demonstrating decision-making using;
+- if
+- else if
+- else
+### Concepts Practiced:
+- Conditional logic
+- Comparison operators(>,<,==)
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
