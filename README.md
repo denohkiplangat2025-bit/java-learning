@@ -85,6 +85,17 @@ A Java program demonstrating decision-making using;
 ### Concepts Practiced:
 - Conditional logic
 - Comparison operators(>,<,==)
+## Mixed Data Types and Input Practice(16/02/2026)
+A Java program that accepts
+- String input
+- Integer input
+- Boolean input
+### Concepts Practiced:
+- Scanner for different data types
+- nextLine(), nextInt(), nextBoolean()
+- Handling input buffer issues
+- Variable declaration and initialization
+
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
