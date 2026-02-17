@@ -95,7 +95,14 @@ A Java program that accepts
 - nextLine(), nextInt(), nextBoolean()
 - Handling input buffer issues
 - Variable declaration and initialization
-
+## Random Number Practice(17/02/2026) 
+A Java program demonstrating how to generate random numbers using:
+- Random class
+### Concepts Practiced
+- Importing classes
+- Generating random integers
+- Working with ranges
+- Basic program
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
