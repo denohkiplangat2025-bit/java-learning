@@ -103,6 +103,21 @@ A Java program demonstrating how to generate random numbers using:
 - Generating random integers
 - Working with ranges
 - Basic program
+## Math Functions Practice(20/02/2026)
+A Java program demonstrating commonly used methods from the Math class.
+### Functions Used:
+- Math.max()
+- Math.main()
+- Math.sprt()
+- Math.pow()
+- Math.abs()
+- Math.round()
+- Math.ceil()
+- Math.floor()
+### Concepts Practiced:
+- Using built-in Java methods
+- Working with double values
+- Performing advanced calculations
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
