@@ -118,6 +118,14 @@ A Java program demonstrating commonly used methods from the Math class.
 - Using built-in Java methods
 - Working with double values
 - Performing advanced calculations
+## Hypoteuse Calculator 
+A Java program that calculates the hypotenuse of a right triangle using the Pythagorean theorem.
+Formula used: c= sqrt(a2 + b2)
+### Concepts Practiced:
+-Math.sqrt()
+-Math.pow()
+-User input handling
+-Mathematical formulas in code
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
