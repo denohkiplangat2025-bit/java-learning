@@ -118,7 +118,7 @@ A Java program demonstrating commonly used methods from the Math class.
 - Using built-in Java methods
 - Working with double values
 - Performing advanced calculations
-## Hypoteuse Calculator 
+## Hypoteuse Calculator(20/02/2026)
 A Java program that calculates the hypotenuse of a right triangle using the Pythagorean theorem.
 Formula used: c= sqrt(a2 + b2)
 ### Concepts Practiced:
@@ -126,6 +126,21 @@ Formula used: c= sqrt(a2 + b2)
 -Math.pow()
 -User input handling
 -Mathematical formulas in code
+## Geometry Calculator(20/02/2026)
+A Java program that calculates:
+- Circumference of a circle
+- Area of a circle
+- Volume of a sphere
+### Formulas Used:
+Circumference = 2 × π × r  
+Area = π × r²  
+Volume = (4/3) × π × r³  
+### Concepts Practiced:
+- Math. PI
+- Math.pow()
+- Working with double
+- printf formatting (%.2f)
+- Mathematical computations
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
