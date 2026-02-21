@@ -141,6 +141,18 @@ Volume = (4/3) × π × r³
 - Working with double
 - printf formatting (%.2f)
 - Mathematical computations
+## Printf Formatting Practice(21/02/2026)
+A Java program demonstrating formatted output using `System.out.printf().
+### Data Types Used:
+- String (%s)
+- int (%d)
+- double (%.2f)
+- boolean (%b)
+- char (%c)
+### Concepts Practiced:
+- Output formatting
+- Multiple variables in one line
+- Controlling decimal places
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
