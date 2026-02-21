@@ -153,6 +153,14 @@ A Java program demonstrating formatted output using `System.out.printf().
 - Output formatting
 - Multiple variables in one line
 - Controlling decimal places
+## Advanced Printf Formatting(21/02/2026)
+A Java program demonstrating advanced formatting flags in `System.out.printf()`.
+### Concepts Practiced:
+- + flag (always show sign)
+- , flag (comma grouping separator)
+- ( flag (negative numbers in parentheses)
+- space flag (leading space for positive numbers)
+- Combining flags with precision
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
