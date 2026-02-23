@@ -161,6 +161,14 @@ A Java program demonstrating advanced formatting flags in `System.out.printf()`.
 - ( flag (negative numbers in parentheses)
 - space flag (leading space for positive numbers)
 - Combining flags with precision
+## Printf Width and Padding.(23/2/2026)
+A Java program demonstrating width formatting and text alignment using `System.out.printf()`.
+### Concepts Practiced:
+- Setting field width
+- Zero padding (0 flag)
+- Right-justified padding (default behavior)
+- Left-justified padding (- flag)
+- Combining width with precision
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
