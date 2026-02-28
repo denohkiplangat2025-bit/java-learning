@@ -179,6 +179,13 @@ A = P(1 + r/n)^(nt)
 - User-defined variables
 - Formatted output using printf
 - Precision control
+## Nested If Statements(28/02/2026)
+A Java program demonstrating the use of nested if statements to evaluate multiple conditions.
+### Concepts Practiced:
+- Conditional logic
+- Nested decision structures
+- Logical comparison operators
+- Structured branching
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
