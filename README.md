@@ -169,6 +169,16 @@ A Java program demonstrating width formatting and text alignment using `System.o
 - Right-justified padding (default behavior)
 - Left-justified padding (- flag)
 - Combining width with precision
+---
+## Compound Interest Calculator(28/02/2026)
+A Java program that calculates compound interest using the formula:
+A = P(1 + r/n)^(nt)
+### Concepts Practiced:
+- Mathematical formulas
+- Math.pow()
+- User-defined variables
+- Formatted output using printf
+- Precision control
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
