@@ -186,6 +186,17 @@ A Java program demonstrating the use of nested if statements to evaluate multipl
 - Nested decision structures
 - Logical comparison operators
 - Structured branching
+## Useful String Methods(03/03/2026)
+A Java program demonstrating commonly used String methods.
+### Concepts Practiced:
+- length()
+- toUpperCase() and toLowerCase()
+- trim()
+- substring()
+- equals() and equalsIgnoreCase()
+- contains()
+- replace()
+- charAt()
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
