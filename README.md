@@ -197,7 +197,7 @@ A Java program demonstrating commonly used String methods.
 - contains()
 - replace()
 - charAt()
-## Substring Method(4/02/2026)
+## Substring Method(4/03/2026)
 A Java program demonstrating how to extract parts of a String using the substring() method.
 ### Concepts Practiced:
 - substring(beginIndex)
@@ -205,6 +205,14 @@ A Java program demonstrating how to extract parts of a String using the substrin
 - Understanding index positions
 - Extracting portions of text
 - Avoiding StringIndexOutOfBoundsException
+## Weight Conversion Program(5/03/2026)
+A Java program that converts weight between kilograms and pounds using user input.
+### Concepts Practiced:
+- Scanner input handling
+- if-else if-else statements
+- Arithmetic calculations with double
+- Formatted output using printf
+- Unit conversion logic
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
