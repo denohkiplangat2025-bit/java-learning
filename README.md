@@ -219,6 +219,14 @@ A Java program demonstrating the use of the ternary operator as a shorthand for 
 - Conditional expressions
 - Ternary operator syntax (condition ? value1 : value2)
 - Simplifying simple if-else logic
+## Temperature Conversion program using ternary Operator(7/03/2026)
+A Java program that converts temperature between Celsius and Fahrenheit using the ternary operator.
+### Concepts Practiced:
+- Scanner input handling
+- Conditional logic with ternary operator
+- Arithmetic calculations with double
+- Formatted output using printf
+- Temperature conversion formulas
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
