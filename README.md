@@ -213,6 +213,12 @@ A Java program that converts weight between kilograms and pounds using user inpu
 - Arithmetic calculations with double
 - Formatted output using printf
 - Unit conversion logic
+## Ternary Operator(7/03/2026)
+A Java program demonstrating the use of the ternary operator as a shorthand for if-else statements.
+### Concepts Practiced:
+- Conditional expressions
+- Ternary operator syntax (condition ? value1 : value2)
+- Simplifying simple if-else logic
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
