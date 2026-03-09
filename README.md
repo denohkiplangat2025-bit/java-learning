@@ -227,6 +227,13 @@ A Java program that converts temperature between Celsius and Fahrenheit using th
 - Arithmetic calculations with double
 - Formatted output using printf
 - Temperature conversion formulas
+## Enhanced Switch Statement(9/03/2026)
+A Java program demonstrating the modern enhanced switch syntax using arrow labels.
+### Concepts Practiced:
+- Modern switch syntax (->)
+- Cleaner case handling
+- Eliminating break statements
+- Improved readability of conditional branching
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
