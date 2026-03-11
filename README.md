@@ -234,6 +234,14 @@ A Java program demonstrating the modern enhanced switch syntax using arrow label
 - Cleaner case handling
 - Eliminating break statements
 - Improved readability of conditional branching
+## Simple Calculator(11/03/2026)
+A Java program that performs basic arithmetic operations based on user input.
+### Concepts Practiced:
+- Scanner input handling
+- switch statement for operation selection
+- if-else logic for validation
+- Boolean operators (&&, ||)
+- Arithmetic calculations
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
