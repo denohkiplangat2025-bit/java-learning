@@ -242,6 +242,13 @@ A Java program that performs basic arithmetic operations based on user input.
 - if-else logic for validation
 - Boolean operators (&&, ||)
 - Arithmetic calculations
+## Logical Operators(13/03/2026)
+A Java program demonstrating the use of logical operators to combine multiple conditions.
+### Concepts Practiced:
+- Logical AND (&&)
+- Logical OR (||)
+- Logical NOT (!)
+- Combining conditions in if statements
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
