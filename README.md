@@ -249,6 +249,14 @@ A Java program demonstrating the use of logical operators to combine multiple co
 - Logical OR (||)
 - Logical NOT (!)
 - Combining conditions in if statements
+## Username Setup Program(13/03/2026)
+A Java program that allows users to create a username with input validation.
+### Concepts Practiced:
+- Scanner input handling
+- if-else statements
+- Logical operators (&&, ||)
+- User input validation
+- Conditional branching
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
