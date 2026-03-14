@@ -271,6 +271,13 @@ Java programs demonstrating how while loops can repeat actions until a condition
 - Input validation using loops
 - Repeating user interaction
 - Program termination using conditions
+## Do-While Loop Practice(14/03/2026)
+A Java program demonstrating the use of a do-while loop to validate user input.
+### Concepts Practiced:
+- do-while loop structure
+- Input validation
+- Scanner input handling
+- Ensuring a value is not negative
 
 ## Learning approach
 - Practice-based learning
