@@ -264,6 +264,13 @@ A Java program that ensures the user enters a name by preventing empty input usi
 - User input validation
 - String method isEmpty()
 - Scanner input handling
+## While Loop Practice(14/03/2026)
+Java programs demonstrating how while loops can repeat actions until a condition changes.
+### Concepts Practiced:
+- while loop syntax
+- Input validation using loops
+- Repeating user interaction
+- Program termination using conditions
 
 ## Learning approach
 - Practice-based learning
