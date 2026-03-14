@@ -257,6 +257,14 @@ A Java program that allows users to create a username with input validation.
 - Logical operators (&&, ||)
 - User input validation
 - Conditional branching
+## Name Input Validation(14/03/2026)
+A Java program that ensures the user enters a name by preventing empty input using a while loop.
+### Concepts Practiced:
+- while loop repetition
+- User input validation
+- String method isEmpty()
+- Scanner input handling
+
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
