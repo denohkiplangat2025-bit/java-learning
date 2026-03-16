@@ -278,7 +278,13 @@ A Java program demonstrating the use of a do-while loop to validate user input.
 - Input validation
 - Scanner input handling
 - Ensuring a value is not negative
-
+## Number Range Validation(16/03/2026)
+A Java program that repeatedly prompts the user to enter a number between 1 and 10 until a valid value is provided.
+### Concepts Practiced:
+- while loop repetition
+- Logical OR operator (||)
+- Input validation
+- Scanner user input
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
