@@ -285,6 +285,15 @@ A Java program that repeatedly prompts the user to enter a number between 1 and 
 - Logical OR operator (||)
 - Input validation
 - Scanner user input
+## Number Guessing Game(17/03/2026)
+A Java program where the user guesses a randomly generated number between 1 and 100.
+### Concepts Practiced:
+- Random number generation
+- do-while and while loops
+- if-else conditional logic
+- User input handling with Scanner
+- Counting attempts
+- Input validation
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
