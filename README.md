@@ -294,6 +294,13 @@ A Java program where the user guesses a randomly generated number between 1 and 
 - User input handling with Scanner
 - Counting attempts
 - Input validation
+## For Loop Practice(20/03/2026)
+A Java program that uses a for loop to repeat an action based on user input.
+### Concepts Practiced:
+- for loop syntax
+- Loop initialization, condition, and increment
+- User-controlled iteration
+- Incrementing values
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
