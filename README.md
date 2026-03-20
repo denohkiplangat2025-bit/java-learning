@@ -301,6 +301,13 @@ A Java program that uses a for loop to repeat an action based on user input.
 - Loop initialization, condition, and increment
 - User-controlled iteration
 - Incrementing values
+## Countdown Timer(20/03/2026)
+A Java program that counts down from 60 seconds to 0 using a for loop and Thread.sleep.
+### Concepts Practiced:
+- for loop countdown logic
+- Time delay using Thread.sleep()
+- Sequential output
+- Basic time-based simulation
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
