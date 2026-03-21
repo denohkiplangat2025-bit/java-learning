@@ -308,6 +308,13 @@ A Java program that counts down from 60 seconds to 0 using a for loop and Thread
 - Time delay using Thread.sleep()
 - Sequential output
 - Basic time-based simulation
+## Nested Loops(21/03/2026)
+A Java program demonstrating the use of nested loops to repeat actions within another loop.
+### Concepts Practiced:
+- Nested loop structure
+- Outer and inner loop control
+- Pattern generation
+- Repetitive structured output
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
