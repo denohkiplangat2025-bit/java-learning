@@ -315,6 +315,13 @@ A Java program demonstrating the use of nested loops to repeat actions within an
 - Outer and inner loop control
 - Pattern generation
 - Repetitive structured output
+## Matrix Pattern(21/03/2026)
+A Java program that prints a 5x4 matrix using a symbol (*) with nested loops.
+### Concepts Practiced:
+- Nested loops
+- Row and column structure
+- Pattern generation
+- Console output formatting
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
