@@ -322,6 +322,24 @@ A Java program that prints a 5x4 matrix using a symbol (*) with nested loops.
 - Row and column structure
 - Pattern generation
 - Console output formatting
+## Methods in Java(24/03/2026)
+
+Java programs demonstrating how to create and use methods for code reusability and structured programming.
+
+### Concepts Practiced:
+- Creating methods
+- Calling methods
+- Passing parameters (String, int, double)
+- Returning values from methods
+- Using static methods
+- Method reusability
+- Combining methods with user input and formatted output
+
+### Programs:
+- Happy Birthday Method (prints formatted message using parameters)
+- Square Method (returns square of a number)
+- Cube Method (returns cube of a number)
+- Full Name Method (combines first, middle, and last name)
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
