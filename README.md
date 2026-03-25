@@ -332,13 +332,24 @@ Java programs demonstrating how to create and use methods for code reusability a
 - Using static methods
 - Method reusability
 - Combining methods with user input and formatted output
-
 ### Programs:
 - Happy Birthday Method (prints formatted message using parameters)
 - Square Method (returns square of a number)
 - Cube Method (returns cube of a number)
 - Full Name Method (combines first, middle, and last name)
 - Age Eligibility Checker (returns a boolean to determine credit card sign-up eligibility)
+## Method Overloading(25/03/2026)
+Java programs demonstrating method overloading by using the same method name with different parameters.
+### Concepts Practiced:
+- Method overloading
+- Same method name with different parameter lists
+- Compile-time polymorphism
+- Returning values from overloaded methods
+- Using different data types (double, String)
+
+### Programs:
+- Addition Overloading (adding 2, 3, and 4 numbers)
+- Pizza Ingredients Overloading (returns ingredients based on pizza type)
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
