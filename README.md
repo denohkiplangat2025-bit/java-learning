@@ -350,6 +350,13 @@ Java programs demonstrating method overloading by using the same method name wit
 ### Programs:
 - Addition Overloading (adding 2, 3, and 4 numbers)
 - Pizza Ingredients Overloading (returns ingredients based on pizza type)
+## Variable Scope(27/03/2026)
+A Java program demonstrating the difference between local and class variables.
+### Concepts Practiced:
+- Local variables (defined inside methods)
+- Class variables (defined outside methods)
+- Variable accessibility
+- Scope limitations
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
