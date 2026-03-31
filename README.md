@@ -365,6 +365,16 @@ A menu-driven Java application that allows users to check their balance, deposit
 - Formatted output using printf
 - Menu-driven program structure
 - Shared resources across methods (Scanner)
+## Dice Roller Program(31/03/2026)
+A Java program that simulates rolling one or more dice and displays the results using ASCII art.
+### Concepts Practiced:
+- Random number generation
+- User input handling with Scanner
+- for loop iteration
+- Conditional validation using if statements
+- switch statement for handling dice faces
+- Methods for modular design
+- ASCII output formatting
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
