@@ -375,6 +375,15 @@ A Java program that simulates rolling one or more dice and displays the results 
 - switch statement for handling dice faces
 - Methods for modular design
 - ASCII output formatting
+## Arrays in Java(02/04/2026)
+Java programs demonstrating basic array operations and manipulation.
+### Concepts Practiced:
+- Creating and initializing arrays
+- Accessing array elements
+- Using Arrays.sort()
+- Using Arrays.fill()
+- Iterating with for loop
+- Iterating with enhanced for loop (for-each)
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
