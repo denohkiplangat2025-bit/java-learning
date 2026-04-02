@@ -384,6 +384,11 @@ Java programs demonstrating basic array operations and manipulation.
 - Using Arrays.fill()
 - Iterating with for loop
 - Iterating with enhanced for loop (for-each)
+- Dynamic array input using Scanner
+### Programs:
+- Array Basics (sorting, filling, iteration)
+- User Input Array (stores and prints user-provided values dynamically)
+
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
