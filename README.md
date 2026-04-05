@@ -390,7 +390,17 @@ Java programs demonstrating basic array operations and manipulation.
 - Array Basics (sorting, filling, iteration)
 - User Input Array (stores and prints user-provided values dynamically)
 - Array Search (linear search for integers and strings using loops and boolean flags)
-
+## Varargs in Java(5/04/2026)
+Java programs demonstrating the use of variable-length arguments (varargs) to handle multiple inputs.
+### Concepts Practiced:
+- Variable-length arguments (int... numbers)
+- Treating varargs as arrays
+- Flexible method parameters
+- Looping through dynamic inputs
+- Returning computed results
+### Programs:
+- VarArgs Sum (calculates sum of integers)
+- VarArgs Average (calculates average of numbers)
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
