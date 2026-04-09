@@ -390,7 +390,8 @@ Java programs demonstrating basic array operations and manipulation.
 - Array Basics (sorting, filling, iteration)
 - User Input Array (stores and prints user-provided values dynamically)
 - Array Search (linear search for integers and strings using loops and boolean flags)
-- - 2D Array Keypad (represents a phone keypad using rows and columns)
+- 2D Array Keypad (represents a phone keypad using rows and columns)
+- Interactive Quiz Game (5 questions with 4 options each, score tracking using arrays and loops)
 ## Varargs in Java(5/04/2026)
 Java programs demonstrating the use of variable-length arguments (varargs) to handle multiple inputs.
 ### Concepts Practiced:
