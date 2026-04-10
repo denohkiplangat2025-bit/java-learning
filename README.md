@@ -392,6 +392,7 @@ Java programs demonstrating basic array operations and manipulation.
 - Array Search (linear search for integers and strings using loops and boolean flags)
 - 2D Array Keypad (represents a phone keypad using rows and columns)
 - Interactive Quiz Game (5 questions with 4 options each, score tracking using arrays and loops)
+- Rock Paper Scissors Game (user vs computer using random choices and game loop)
 ## Varargs in Java(5/04/2026)
 Java programs demonstrating the use of variable-length arguments (varargs) to handle multiple inputs.
 ### Concepts Practiced:
