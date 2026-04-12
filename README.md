@@ -6,6 +6,8 @@ This repository contains my Java practice and notes as I learn Java step by step
 - Practice object-oriented programming
 - Build a strong programming foundation in Java for Software Development.
   My Java learning from basics to OOP
+## Program list:
+- Slot Machine Game (betting system with random symbols and payout logic)
 ## Topics covered so far
 - Variables and data types
 - User input using Scanner
@@ -404,6 +406,17 @@ Java programs demonstrating the use of variable-length arguments (varargs) to ha
 ### Programs:
 - VarArgs Sum (calculates sum of integers)
 - VarArgs Average (calculates average of numbers)
+## Slot Machine Game(12/04/2026)
+A Java program that simulates a slot machine with betting, spinning reels, and payout calculation.
+### Concepts Practiced:
+- While loop for continuous gameplay
+- Input validation and error handling
+- Random number generation
+- Arrays for storing symbols and rows
+- Methods for modular design
+- Switch statement for payout logic
+- Balance tracking and updates
+- Game loop with replay option
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
