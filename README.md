@@ -417,6 +417,14 @@ A Java program that simulates a slot machine with betting, spinning reels, and p
 - Switch statement for payout logic
 - Balance tracking and updates
 - Game loop with replay option
+## Objects in Java (OOP Basics)(14/04/2026)
+Java programs demonstrating the fundamentals of Object-Oriented Programming using classes and objects.
+### Concepts Practiced:
+- Creating classes
+- Creating objects
+- Defining attributes (variables)
+- Defining methods (behavior)
+- Accessing object properties and methods
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
