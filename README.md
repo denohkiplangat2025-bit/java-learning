@@ -425,6 +425,18 @@ Java programs demonstrating the fundamentals of Object-Oriented Programming usin
 - Defining attributes (variables)
 - Defining methods (behavior)
 - Accessing object properties and methods
+## Constructors in Java(16/04/2026)
+Java programs demonstrating how constructors are used to initialize objects.
+### Concepts Practiced:
+- Creating constructors
+- Initializing object attributes
+- Passing arguments to constructors
+- Creating multiple objects
+- Using methods within a class
+- Calling object methods from main class
+
+### Programs:
+- Student Class (stores and displays student details using constructor)
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
