@@ -434,7 +434,16 @@ Java programs demonstrating how constructors are used to initialize objects.
 - Creating multiple objects
 - Using methods within a class
 - Calling object methods from main class
-
+## Constructor Overloading(19/04/2026)
+Java programs demonstrating how multiple constructors can be used to initialize objects with different sets of data.
+### Concepts Practiced:
+- Constructor overloading
+- Optional parameters
+- Multiple ways to create objects
+- Object initialization flexibility
+- Using `this()` to reduce redundancy (optional improvement)
+### Programs:
+- User Class (creates users with name, name+email, or name+email+age)
 ### Programs:
 - Student Class (stores and displays student details using constructor)
 ## Learning approach
