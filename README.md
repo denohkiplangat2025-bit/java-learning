@@ -442,6 +442,17 @@ Java programs demonstrating how multiple constructors can be used to initialize 
 - Multiple ways to create objects
 - Object initialization flexibility
 - Using `this()` to reduce redundancy (optional improvement)
+## Arrays of Objects(20/04/2026)
+Java programs demonstrating how to store and manage multiple objects using arrays.
+### Concepts Practiced:
+- Creating arrays of objects
+- Passing arguments to constructors
+- Calling methods on objects
+- Using enhanced for loop with objects
+- Object-oriented data handling
+
+### Programs:
+- Gari Class (stores car details and uses drive method for output)
 ### Programs:
 - User Class (creates users with name, name+email, or name+email+age)
 ### Programs:
