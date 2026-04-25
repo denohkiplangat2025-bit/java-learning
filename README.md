@@ -458,6 +458,20 @@ Java programs demonstrating how to store and manage multiple objects using array
 - User Class (creates users with name, name+email, or name+email+age)
 ### Programs:
 - Student Class (stores and displays student details using constructor)
+## 02 - Object-Oriented Programming (OOP) 25/04/2026
+### Topics:
+- Classes and Objects
+- Constructors
+- Constructor Overloading
+- Arrays of Objects
+- Static Methods and Variables
+- Inheritance
+### Projects:
+- Student Class
+- User Class
+- Gari (array of objects)
+- Friend (static example)
+### Inheritance
 ## Learning approach
 - Practice-based learning
 - Small examples for each concept
