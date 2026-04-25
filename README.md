@@ -466,6 +466,17 @@ Java programs demonstrating how to store and manage multiple objects using array
 - Arrays of Objects
 - Static Methods and Variables
 - Inheritance
+### Super Keyword
+Java programs demonstrating the use of `super` to access parent class constructors and methods.
+#### Concepts Practiced:
+- Calling parent constructors with `super()`
+- Inheriting common properties
+- Reducing code duplication
+- Working with parent-child class relationships
+#### Structure:
+- `Person` (base class)
+- `Learner` (extends Person)
+- `Employee` (extends Person)
 ### Projects:
 - Student Class
 - User Class
