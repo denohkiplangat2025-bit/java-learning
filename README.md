@@ -482,6 +482,28 @@ Java programs demonstrating the use of `super` to access parent class constructo
 - User Class
 - Gari (array of objects)
 - Friend (static example)
+### Method Overriding
+Java programs demonstrating method overriding in inheritance, where a child class provides its own implementation of a method defined in the parent class.
+#### Concepts Practiced:
+- Method overriding using @Override
+- Inheritance (parent and child classes)
+- Same method name in both parent and child classes
+- Custom behavior in subclasses
+- Code reuse with modified functionality
+#### Structure:
+- Animal (base class with move() method)
+- Chihuahua (extends Animal, overrides move())
+- Fish (extends Animal, overrides move())
+- Cat (extends Animal, overrides move())
+
+#### Key Idea:
+Each subclass overrides the move() method to define its own behavior:
+- Chihuahua → running
+- Fish → swimming
+- Cat → walking
+
+#### Program:
+- OverrideDemo (main class to test method overriding)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
