@@ -495,13 +495,22 @@ Java programs demonstrating method overriding in inheritance, where a child clas
 - Chihuahua (extends Animal, overrides move())
 - Fish (extends Animal, overrides move())
 - Cat (extends Animal, overrides move())
-
 #### Key Idea:
 Each subclass overrides the move() method to define its own behavior:
 - Chihuahua → running
 - Fish → swimming
 - Cat → walking
+### toString() Method (29/04/2026)
+Java programs demonstrating the use of the toString() method to display object information in a readable format.
+#### Concepts Practiced:
+- Overriding toString() method
+- Converting objects into readable strings
+- Improving object output formatting
+- Automatic method call when printing objects
 
+#### Program:
+- Auto Class (represents a car with make, model, year, color)
+- AutoDemo (prints objects using System.out.println)
 #### Program:
 - OverrideDemo (main class to test method overriding)
 ### Inheritance
