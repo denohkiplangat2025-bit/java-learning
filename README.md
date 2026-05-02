@@ -507,12 +507,28 @@ Java programs demonstrating the use of the toString() method to display object i
 - Converting objects into readable strings
 - Improving object output formatting
 - Automatic method call when printing objects
-
 #### Program:
 - Auto Class (represents a car with make, model, year, color)
 - AutoDemo (prints objects using System.out.println)
 #### Program:
-- OverrideDemo (main class to test method overriding)
+- OverrideDemo (main class to test method overriding
+### Abstraction (02/05/2026)
+Java programs demonstrating abstraction using abstract classes and methods.
+#### Concepts Practiced:
+- Creating abstract classes
+- Defining abstract methods
+- Forcing subclasses to implement behavior
+- Code reuse with shared methods
+- Designing flexible class structures
+#### Structure:
+- Shape (abstract class with area method and display method)
+- Circle (extends Shape, calculates area using radius)
+- Triangle (extends Shape, calculates area using base and height)
+- Rectangle (extends Shape, calculates area using length and width)
+#### Key Idea:
+The Shape class defines a common structure, while each subclass provides its own implementation of the area() method.
+#### Program:
+- ShapeDemo (demonstrates usage of abstract class and subclasses)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
