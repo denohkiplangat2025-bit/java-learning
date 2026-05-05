@@ -529,6 +529,24 @@ Java programs demonstrating abstraction using abstract classes and methods.
 The Shape class defines a common structure, while each subclass provides its own implementation of the area() method.
 #### Program:
 - ShapeDemo (demonstrates usage of abstract class and subclasses)
+### Interfaces(6/05/2026)
+Java programs demonstrating the use of interfaces to define and implement multiple behaviors.
+#### Concepts Practiced:
+- Creating interfaces
+- Implementing interfaces using implements
+- Multiple interface implementation
+- Defining behavior without implementation
+- Code flexibility and design
+#### Structure:
+- Predator (interface with hunt method)
+- Prey (interface with flee method)
+- Rabbit (implements Prey)
+- Hawk (implements Predator)
+- Fish (implements both Prey and Predator)
+#### Key Idea:
+Interfaces allow a class to have multiple behaviors by implementing multiple contracts.
+#### Program:
+- InterfaceDemo (demonstrates interface usage and behavior)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
