@@ -547,6 +547,23 @@ Java programs demonstrating the use of interfaces to define and implement multip
 Interfaces allow a class to have multiple behaviors by implementing multiple contracts.
 #### Program:
 - InterfaceDemo (demonstrates interface usage and behavior)
+### Polymorphism(8/05/2026)
+Java programs demonstrating runtime polymorphism using abstract classes and method overriding.
+#### Concepts Practiced:
+- Runtime polymorphism
+- Parent class references
+- Method overriding
+- Dynamic method dispatch
+- Using arrays of parent types
+#### Structure:
+- Vehicle (abstract class with go() method)
+- Wagen (extends Vehicle, overrides go())
+- Bike (extends Vehicle, overrides go())
+- Boat (extends Vehicle, overrides go())
+#### Key Idea:
+Different subclasses provide their own implementation of the go() method while sharing the same parent reference type.
+#### Program:
+- PolymorphismDemo (uses a Vehicle[] array and loop to call overridden methods dynamically)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
