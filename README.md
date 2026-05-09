@@ -564,6 +564,22 @@ Java programs demonstrating runtime polymorphism using abstract classes and meth
 Different subclasses provide their own implementation of the go() method while sharing the same parent reference type.
 #### Program:
 - PolymorphismDemo (uses a Vehicle[] array and loop to call overridden methods dynamically)
+### Runtime Polymorphism(9/05/2026)
+Java programs demonstrating runtime polymorphism using abstract classes, method overriding, and dynamic object creation.
+#### Concepts Practiced:
+- Runtime polymorphism
+- Dynamic method dispatch
+- Parent class references
+- User-controlled object creation
+- Method overriding
+#### Structure:
+- Tier (abstract class with speak() method)
+- Hund (extends Tier, overrides speak())
+- Katze (extends Tier, overrides speak())
+#### Key Idea:
+The object assigned to the parent reference is determined at runtime based on user input.
+#### Program:
+- RuntimePolymorphismDemo (user selects an animal and the appropriate overridden method executes dynamically)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
