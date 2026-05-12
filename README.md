@@ -580,6 +580,24 @@ Java programs demonstrating runtime polymorphism using abstract classes, method 
 The object assigned to the parent reference is determined at runtime based on user input.
 #### Program:
 - RuntimePolymorphismDemo (user selects an animal and the appropriate overridden method executes dynamically)
+### Encapsulation (Getters and Setters)(13/05/2026)
+Java programs demonstrating encapsulation by hiding class fields and providing controlled access using getter and setter methods.
+#### Concepts Practiced:
+- Private variables (data hiding)
+- Getter methods for reading values
+- Setter methods for updating values
+- Data validation inside setters
+- Controlled access to class fields
+#### Structure:
+  - Pkw class
+  - Private fields: model, color, price
+  - Constructor to initialize values
+  - Getters for all fields
+  - Setters for color and price with validation
+#### Key Idea:
+Encapsulation protects data by making variables private and allowing controlled access through methods.
+#### Program:
+- PkwDemo (demonstrates updating and retrieving object data safely)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
