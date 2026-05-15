@@ -598,6 +598,23 @@ Java programs demonstrating encapsulation by hiding class fields and providing c
 Encapsulation protects data by making variables private and allowing controlled access through methods.
 #### Program:
 - PkwDemo (demonstrates updating and retrieving object data safely)
+### Aggregation
+Java programs demonstrating aggregation, where one class contains objects of another class.
+#### Concepts Practiced:
+- HAS-A relationships
+- Using objects inside another class
+- Arrays of objects
+- Enhanced for loops with objects
+- Object collaboration
+#### Structure:
+- Book (stores title and pages)
+- Library (contains an array of Book objects)
+
+#### Key Idea:
+Aggregation allows one class to use objects of another class while keeping them independent.
+
+#### Program:
+- AggregationDemo (creates books and stores them inside a library)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
