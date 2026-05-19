@@ -615,6 +615,24 @@ Aggregation allows one class to use objects of another class while keeping them 
 
 #### Program:
 - AggregationDemo (creates books and stores them inside a library)
+### Composition
+Java programs demonstrating composition, where one object is strongly composed of another object.
+#### Concepts Practiced:
+- Composition relationships
+- Creating objects inside another class
+- Strong HAS-A relationships
+- Object collaboration
+- Constructor-based object creation
+
+#### Structure:
+- Engine (stores engine type and start behavior)
+- Automobile (contains an Engine object)
+
+#### Key Idea:
+Composition creates a strong relationship where one object owns and manages another object internally.
+
+#### Program:
+- CompositionDemo (creates an automobile with an engine and starts it)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
