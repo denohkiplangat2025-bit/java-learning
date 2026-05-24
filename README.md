@@ -633,6 +633,24 @@ Composition creates a strong relationship where one object owns and manages anot
 
 #### Program:
 - CompositionDemo (creates an automobile with an engine and starts it)
+### ArrayList(24/05/2026)
+Java programs demonstrating the use of `ArrayList` from the Java Collections Framework.
+#### Concepts Practiced:
+- Creating ArrayLists
+- Adding elements with add()
+- Removing elements with remove()
+- Updating elements with set()
+- Accessing elements with get()
+- Getting list size with size()
+- Sorting using `Collections.sort()
+#### Types Used:
+- ArrayList<Integer>
+- ArrayList<Double>
+- ArrayList<String>
+#### Key Idea:
+ArrayLists provide dynamic, resizable arrays that are more flexible than normal arrays.
+#### Program:
+- ArrayListDemo (demonstrates common ArrayList operations)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
