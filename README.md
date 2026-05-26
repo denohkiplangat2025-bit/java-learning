@@ -651,6 +651,27 @@ Java programs demonstrating the use of `ArrayList` from the Java Collections Fra
 ArrayLists provide dynamic, resizable arrays that are more flexible than normal arrays.
 #### Program:
 - ArrayListDemo (demonstrates common ArrayList operations)
+### File Handling - Reading Files
+Java programs demonstrating how to read text files using BufferedReader and FileReader.
+#### Concepts Practiced:
+- File reading in Java
+- Using BufferedReader
+- Using FileReader
+- Try-with-resources
+- Exception handling with file operations
+- Reading files line-by-line
+
+#### Topics Covered:
+- FileReader
+- BufferedReader
+- readLine()
+- FileNotFoundException
+- IOException
+
+#### Key Idea:
+BufferedReader allows efficient reading of text files one line at a time.
+#### Program:
+- ReadFileDemo (reads and prints text from a file)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
