@@ -660,18 +660,34 @@ Java programs demonstrating how to read text files using BufferedReader and File
 - Try-with-resources
 - Exception handling with file operations
 - Reading files line-by-line
-
 #### Topics Covered:
 - FileReader
 - BufferedReader
 - readLine()
 - FileNotFoundException
 - IOException
-
 #### Key Idea:
 BufferedReader allows efficient reading of text files one line at a time.
 #### Program:
 - ReadFileDemo (reads and prints text from a file)
+### Audio Playback in Java
+Java programs demonstrating how to play `.wav` audio files using the `AudioSystem` and `Clip` classes.
+#### Concepts Practiced:
+- AudioInputStream
+- Clip control (play, stop, reset)
+- File handling for audio
+- Exception handling for audio processing
+- Menu-driven programs
+- Switch-case user controls
+#### Controls Implemented:
+- P → Play audio
+- S → Stop audio
+- R → Reset audio
+- Q → Quit program
+#### Key Idea:
+Java can interact with system audio to create simple media player applications.
+#### Program:
+- AudioPlayerDemo (plays and controls WAV audio using user input)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
