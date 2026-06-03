@@ -688,6 +688,34 @@ Java programs demonstrating how to play `.wav` audio files using the `AudioSyste
 Java can interact with system audio to create simple media player applications.
 #### Program:
 - AudioPlayerDemo (plays and controls WAV audio using user input)
+### Hangman Game(4/06/2026)
+A console-based Hangman game built in Java where the player guesses letters to reveal a hidden word before the hangman drawing is completed.
+#### Concepts Practiced:
+- Variables and data types
+- User input with Scanner
+- ArrayList manipulation
+- Loops (while, for)
+- Conditional statements (if, else)
+- Switch expressions
+- Static methods
+- String operations
+- Game state management
+
+#### Features:
+- ASCII hangman drawing that updates after wrong guesses
+- Letter-by-letter word guessing
+- Win and lose conditions
+- Input validation through game logic
+- Dynamic word display using an ArrayList
+
+#### Key Methods Used:
+- indexOf()
+- charAt()
+- length()
+- contains()
+- set()
+#### Program:
+- Hangman (interactive word guessing game with visual hangman progression)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
