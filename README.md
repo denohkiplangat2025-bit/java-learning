@@ -690,6 +690,27 @@ Java can interact with system audio to create simple media player applications.
 - AudioPlayerDemo (plays and controls WAV audio using user input)
 ### Hangman Game(4/06/2026)
 A console-based Hangman game built in Java where the player guesses letters to reveal a hidden word before the hangman drawing is completed.
+### Enhanced Hangman Game(18/6/2026)
+An improved version of the Hangman game that loads words from an external text file and randomly selects a word for each game.
+#### Concepts Practiced:
+- File handling with BufferedReader and FileReader
+- Reading data from text files
+- Using ArrayList to store file contents
+- Random word selection
+- Exception handling
+- Dynamic game content
+#### Features:
+- Loads words from a text file
+- Randomly selects a word each game
+- Improved replayability
+- Separation of game logic and data
+
+#### Files:
+- Hangman.java
+- words.txt
+
+#### Key Idea:
+Moving words into an external file makes the game more flexible and easier to maintain without modifying the source code.
 #### Concepts Practiced:
 - Variables and data types
 - User input with Scanner
@@ -714,6 +735,7 @@ A console-based Hangman game built in Java where the player guesses letters to r
 - length()
 - contains()
 - set()
+
 #### Program:
 - Hangman (interactive word guessing game with visual hangman progression)
 ### Inheritance
