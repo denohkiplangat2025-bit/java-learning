@@ -735,9 +735,33 @@ Moving words into an external file makes the game more flexible and easier to ma
 - length()
 - contains()
 - set()
-
 #### Program:
 - Hangman (interactive word guessing game with visual hangman progression)
+### Date and Time API(24/6/2026)
+Java programs demonstrating the modern `java.time` package for working with dates, times, timestamps, comparisons, and formatting.
+#### Concepts Practiced:
+- LocalDate
+- LocalTime
+- LocalDateTime
+- UTC timestamps with Instant
+- Date and time comparisons
+- Date formatting
+- Time formatting
+#### Topics Covered:
+- Current date retrieval
+- Current time retrieval
+- Date and time manipulation
+- Comparing dates and times
+- Formatting with DateTimeFormatter
+- UTC timestamps
+#### Key Classes:
+- LocalDate
+- LocalTime
+- LocalDateTime
+- Instant
+- DateTimeFormatter
+#### Program:
+- DateTimeDemo (demonstrates date creation, comparison, and formatting)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
