@@ -762,6 +762,22 @@ Java programs demonstrating the modern `java.time` package for working with date
 - DateTimeFormatter
 #### Program:
 - DateTimeDemo (demonstrates date creation, comparison, and formatting)
+### Anonymous Classes(25/06/2026)
+Java programs demonstrating anonymous classes, which allow creating and customizing objects without defining a separate named class.
+#### Concepts Practiced:
+- Anonymous classes
+- Method overriding
+- Runtime polymorphism
+- Object creation
+- One-time class customization
+
+#### Key Idea:
+Anonymous classes are useful when an object needs custom behavior only once and creating a separate class would be unnecessary.
+#### Example:
+- A regular Pet object uses the default speak() method.
+- An anonymous Pet object overrides speak() to provide different behavior.
+#### Program:
+- AnonymousClassDemo (demonstrates overriding methods using anonymous classes)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
