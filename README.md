@@ -788,7 +788,19 @@ Java programs demonstrating how to schedule tasks using `Timer` and `TimerTask`.
 - Stopping scheduled tasks
 #### Key Idea:
 Timer schedules tasks to run after a delay or at fixed intervals, while TimerTask defines the code that should execute each time the task runs.
-
+#### Program:
+- TimerDemo (prints "Hello" three times before stopping the timer and displaying "Task completed!")
+### Timer and TimerTask(5/07/2026)
+Java programs demonstrating how to schedule tasks using Timer and TimerTask.
+#### Concepts Practiced:
+- Creating a Timer
+- Creating a TimerTask
+- Anonymous classes
+- Overriding the run() method
+- Scheduling repeated tasks
+- Stopping scheduled tasks
+#### Key Idea:
+Timer schedules tasks to run after a delay or at fixed intervals, while TimerTask defines the code that should execute each time the task runs.
 #### Program:
 - TimerDemo (prints "Hello" three times before stopping the timer and displaying "Task completed!")
 ### Inheritance
