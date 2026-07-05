@@ -803,6 +803,39 @@ Java programs demonstrating how to schedule tasks using Timer and TimerTask.
 Timer schedules tasks to run after a delay or at fixed intervals, while TimerTask defines the code that should execute each time the task runs.
 #### Program:
 - TimerDemo (prints "Hello" three times before stopping the timer and displaying "Task completed!")
+### Generics
+Java programs demonstrating the use of generic classes to create reusable and type-safe code.
+#### Concepts Practiced:
+- Generic classes
+- Type parameters (<T>)
+- Multiple type parameters (<T, U>)
+- Generic constructors
+- Generic getter and setter methods
+- Compile-time type safety
+- Reusable code design
+#### Projects:
+**1. Box<T>**
+- Created a generic Box<T> class
+- Stored a single item of any data type
+- Retrieved values using a generic getter
+- Updated values using a generic setter
+**Examples:**
+- Box<String>
+- Box<Integer>
+- Box<Double>
+**2. Product<T, U>**
+- Created a generic Product<T, U> class
+- Stored two different data types in a single object
+- Used a generic constructor
+- Retrieved values using generic getter methods
+**Example:**
+- Product<String, Double> (stores a product name and its price)
+#### Key Idea:
+Generics allow developers to write flexible, reusable, and type-safe classes that can work with different data types without duplicating code.
+#### Files:
+- Box.java
+- Product.java
+- GenericsDemo.java
 ### Inheritance
 ## Learning approach
 - Practice-based learning
