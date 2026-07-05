@@ -770,7 +770,6 @@ Java programs demonstrating anonymous classes, which allow creating and customiz
 - Runtime polymorphism
 - Object creation
 - One-time class customization
-
 #### Key Idea:
 Anonymous classes are useful when an object needs custom behavior only once and creating a separate class would be unnecessary.
 #### Example:
@@ -778,6 +777,20 @@ Anonymous classes are useful when an object needs custom behavior only once and 
 - An anonymous Pet object overrides speak() to provide different behavior.
 #### Program:
 - AnonymousClassDemo (demonstrates overriding methods using anonymous classes)
+### Timer and TimerTask(5/07/2026)
+Java programs demonstrating how to schedule tasks using `Timer` and `TimerTask`.
+#### Concepts Practiced:
+- Creating a Timer
+- Creating a TimerTask
+- Anonymous classes
+- Overriding the run() method
+- Scheduling repeated tasks
+- Stopping scheduled tasks
+#### Key Idea:
+Timer schedules tasks to run after a delay or at fixed intervals, while TimerTask defines the code that should execute each time the task runs.
+
+#### Program:
+- TimerDemo (prints "Hello" three times before stopping the timer and displaying "Task completed!")
 ### Inheritance
 ## Learning approach
 - Practice-based learning
