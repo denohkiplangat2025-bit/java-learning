@@ -837,6 +837,31 @@ Generics allow developers to write flexible, reusable, and type-safe classes tha
 - Box.java
 - Product.java
 - GenericsDemo.java
+### HashMap(6/7/2026)
+Java programs demonstrating the use of HashMap to store and manage key-value pairs.
+#### Concepts Practiced:
+- Creating a HashMap
+- Adding key-value pairs with put()
+- Updating existing values
+- Removing entries with remove()
+- Retrieving values with get()
+- Checking for keys with containsKey()
+- Checking for values with containsValue()
+- Getting the map size with size()
+- Iterating through a HashMap using keySet() and an enhanced for loop
+#### Features:
+- Store products and their prices
+- Update existing entries
+- Remove entries
+- Search for keys and values
+- Display all key-value pairs
+#### Example:
+- HashMap<String, Double>
+- Product name → Price
+#### Key Idea:
+A HashMap stores data as key-value pairs, allowing fast lookup, insertion, and removal of elements using unique keys.
+#### Program:
+- HashMapDemo (demonstrates common HashMap operations)
 ### Inheritance
 ## Learning approach
 - Practice-based learning
