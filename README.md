@@ -862,6 +862,36 @@ Java programs demonstrating the use of HashMap to store and manage key-value pai
 A HashMap stores data as key-value pairs, allowing fast lookup, insertion, and removal of elements using unique keys.
 #### Program:
 - HashMapDemo (demonstrates common HashMap operations)
+### Enums (Enumerations)
+Java programs demonstrating the use of enumerations (enum) to represent a fixed set of constant values.
+#### Concepts Practiced:
+- Creating an enum
+- Enum constructors
+- Enum fields
+- Enum methods
+- Using valueOf()
+- User input with Scanner
+- Switch statements with enums
+- Type-safe constants
+#### Features:
+- Created a Day enum representing the days of the week
+- Assigned a numeric value to each day
+- Retrieved the day number using a getter method
+- Converted user input into an enum using valueOf()
+- Used a switch statement to perform actions based on the selected day
+#### Example:
+- MONDAY (1)
+- TUESDAY (2)
+- WEDNESDAY (3)
+- THURSDAY (4)
+- FRIDAY (5)
+- SATURDAY (6)
+- SUNDAY (7)
+#### Key Idea:
+Enums provide a type-safe way to represent a fixed set of constants while allowing constructors, fields, and methods to be associated with each constant.
+#### Files:
+- Day.java
+- EnumDemo.java
 ### Inheritance
 ## Learning approach
 - Practice-based learning
