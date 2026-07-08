@@ -892,6 +892,29 @@ Enums provide a type-safe way to represent a fixed set of constants while allowi
 #### Files:
 - Day.java
 - EnumDemo.java
+### Threading(8/07/2026)
+Java programs demonstrating the basics of multithreading using the Thread class and the Runnable interface.
+#### Concepts Practiced:
+- Creating a class that implements Runnable
+- Overriding the run() method
+- Creating and starting a thread
+- Using Thread.sleep()
+- Handling InterruptedException
+- Running code concurrently
+- User input with Scanner
+- Program timeout using threads
+#### Features:
+- Created a MyRunnable class that implements the Runnable interface.
+- Executed a countdown using a separate thread.
+- Paused execution for one second between each count using Thread.sleep(1000).
+- Displayed a timeout message after five seconds.
+- Allowed the user to enter their name while the countdown was running.
+- Terminated the program if the timeout was reached before the user responded.
+#### Key Idea:
+Threads allow multiple tasks to run concurrently. In this project, one thread handled the countdown while the main thread waited for user input.
+#### Files:
+- MyRunnable.java
+- ThreadDemo.java
 ### Inheritance
 ## Learning approach
 - Practice-based learning
