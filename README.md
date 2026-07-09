@@ -915,6 +915,28 @@ Threads allow multiple tasks to run concurrently. In this project, one thread ha
 #### Files:
 - MyRunnable.java
 - ThreadDemo.java
+### Multithreading(9/07/2026)
+Java programs demonstrating how to execute multiple threads concurrently using the Runnable interface and the Thread class.
+#### Concepts Practiced:
+- Creating a class that implements Runnable
+- Passing data through a constructor
+- Overriding the run() method
+- Creating multiple threads
+- Starting threads with start()
+- Pausing execution with Thread.sleep()
+- Waiting for thread completion using join()
+- Handling InterruptedException
+#### Features:
+- Created a MyRunnable class with a String field to identify each thread.
+- Passed different messages ("PING" and "PONG") to separate thread objects.
+- Executed both threads concurrently.
+- Printed each message five times with a one-second delay.
+- Used join() to ensure the main thread waits until both threads finish before terminating.
+#### Key Idea:
+Multithreading allows multiple tasks to execute concurrently. The join() method synchronizes threads by ensuring the main thread waits for other threads to complete.
+#### Files:
+- MyRunnable.java
+- MultithreadingDemo.java
 ### Inheritance
 ## Learning approach
 - Practice-based learning
