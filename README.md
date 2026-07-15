@@ -937,6 +937,34 @@ Multithreading allows multiple tasks to execute concurrently. The join() method 
 #### Files:
 - MyRunnable.java
 - MultithreadingDemo.java
+### Alarm Clock(15/07/2026)
+A multithreaded Java console application that allows the user to schedule an alarm and plays a WAV audio file when the specified time is reached.
+#### Concepts Practiced:
+- Object-Oriented Programming
+- Constructors
+- Encapsulation
+- Runnable interface
+- Thread creation
+- Multithreading
+- LocalTime
+- DateTimeFormatter
+- User input with Scanner
+- Exception handling
+- Audio playback using Clip
+- File handling
+- Console formatting
+#### Features:
+- User-defined alarm time
+- Input validation
+- Real-time digital clock display
+- Separate thread for monitoring the alarm
+- Plays a WAV audio file when the alarm triggers
+- Stops the alarm when the user presses Enter
+#### Key Classes:
+- Main
+- AlarmClock
+#### Key Idea:
+This project combines Java's threading, date/time API, file handling, audio playback, and object-oriented programming concepts to create a functional console alarm clock.
 ### Inheritance
 ## Learning approach
 - Practice-based learning
